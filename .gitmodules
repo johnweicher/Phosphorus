@@ -1,0 +1,3 @@
+[submodule "Phosphorus/vendor/spdlog"]
+	path = Phosphorus/vendor/spdlog
+	url = https://github.com/gabime/spdlog
